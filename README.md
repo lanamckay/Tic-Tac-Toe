@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+A simple game of tic tac toe that I created using C++. The game keeps track of both player's score, number of wins, and number of ties. The players are given the choice to continue playing or not after each round is over. If they continuing playing, the stats are updated after each round.
